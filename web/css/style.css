@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(199, 202, 202);
+}
+
+.mybtn{
+    display: flex;
+    justify-content: center;
+}
+
+.entryWidth{
+    width: 40px;
+}
+
+.brdr-l{
+    border-left: 2px solid black;
+}
+
+.brdr-r{
+    border-right: 2px solid black;
+}
+
+.brdr-b{
+    border-bottom: 2px solid black;
+}
+
+.brdr-t{
+    border-top: 2px solid black;
+}
